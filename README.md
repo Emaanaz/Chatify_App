@@ -59,7 +59,7 @@ Follow the steps below to set up and run Chatify on your local environment:
 
 You can download the latest APK version of the app from the link below:
 
-[Download Chatify APK](assets/Chatify.apk)
+[Download Chatify APK](Chatify.apk)
 ---
 
 ### **Contributing**
