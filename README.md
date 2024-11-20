@@ -1,5 +1,3 @@
-Here's a detailed **README** template for your Chatify project on GitHub:
-
 ---
 
 # **Chatify - Real-Time Chat Application**
