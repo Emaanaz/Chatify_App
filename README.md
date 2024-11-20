@@ -82,7 +82,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For queries, feel free to reach out:  
 **Aman Sande**  
 - Email: [sandeaman03@gmail.com](mailto:sandeaman03@gmail.com)  
-- LinkedIn: (https:/github.com/Emaanaz)
+- LinkedIn: [Profile](mailto://www.linkedin.com/in/aman-sande)
 - 
 ---
 
