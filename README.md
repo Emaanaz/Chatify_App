@@ -1,5 +1,4 @@
----
-
+-----
 # **Chatify - Real-Time Chat Application**
 
 ### **Description**
